@@ -1,0 +1,108 @@
+[Workspace Header]
+Version = 800
+Pathname Line0001 = "/c/Documents and Settings/Default User.D4T7FX51/Desktop/MIDI Throughput Release "
+Pathname Line0002 = "1.0/mididll.cws"
+CVI Dir = "/c/program files/national instruments/cvi80"
+IVI Standard Root Dir = "/C/Program Files/IVI"
+VXIplug&play Framework Dir = "/C/VXIPNP/winnt"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "mididll.prj"
+Drag Bar Left = 244
+Window Top = 30
+Window Left = 146
+Window Bottom = 728
+Window Right = 1264
+Maximized = True
+Maximized Children = True
+Max Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Hide Windows = False
+Global Hot Key = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 1
+Window Confinement Region Enabled = True
+MainColumnWidth = 225
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 800
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Release"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path Line0001 = "/c/Documents and Settings/Default User.D4T7FX51/Desktop/MIDI Throughput Release "
+Path Line0002 = "1.0/MIDIDLL.h"
+File Type = "Include"
+Disk Date = 3245357854
+In Projects = "1,"
+Window Top = 62
+Window Left = 22
+Window Z-Order = 1
+Source Window State = "1,0,0,0,0,0,0,0,0,89,0,0,0,0,0,49,0,0,1,15,349,676,1,0,"
+
+[File 0002]
+Path = "/c/Program Files/National Instruments/LabVIEW 8.0/cintools/extcode.h"
+File Type = "Include"
+Disk Date = 3206035878
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0003]
+Path = "/c/Program Files/National Instruments/LabVIEW 8.0/cintools/labview.lib"
+File Type = "Library"
+Disk Date = 3211458302
+In Projects = "1,"
+
+[File 0004]
+Path Line0001 = "/c/Documents and Settings/Default User.D4T7FX51/Desktop/MIDI Throughput Release "
+Path Line0002 = "1.0/MIDIDLL.c"
+File Type = "CSource"
+Disk Date = 3250991120
+In Projects = "1,"
+Window Top = 32
+Window Left = 6
+Source Window State = "1,75,84,75,13,76,13,0,0,0,0,0,0,0,0,0,0,0,14,0,349,676,1,0,"
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+
